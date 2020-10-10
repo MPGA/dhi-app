@@ -3,21 +3,23 @@ import ReactMapGL from "react-map-gl";
 
 
 
+
 export default function App() {
   const [viewport, setViewport] = useState({
     latitude: 55.6867243,
     longitude:12.5700724,
     width: "100vw",
     height: "100vh",
-    zoom: 10
+    zoom: 12
   });
 
   return ( 
   <div>
     <ReactMapGL 
     {...viewport} 
-    mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}>
+    mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}> 
     </ReactMapGL>
   </div>
   );
 }
+
