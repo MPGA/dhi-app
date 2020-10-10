@@ -1,0 +1,3400 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    12.591497103579238,
+                    55.68307340076648
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 1,
+                "anlaegsbet": "Bygningssten",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Amaliegade 13",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/96196/",
+                "xcoord": 12.591497103579238,
+                "ycoord": 55.68307340076648
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.576613389730689,
+                    55.678895620573314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 2,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Helligåndskirken",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/96206/",
+                "xcoord": 12.576613389730689,
+                "ycoord": 55.678895620573314
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.573863566329022,
+                    55.67893083414712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 3,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Skindergade 37-39",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/120978/",
+                "xcoord": 12.573863566329022,
+                "ycoord": 55.67893083414712
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.573863566329022,
+                    55.67893083414712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 4,
+                "anlaegsbet": "Bygning",
+                "datering": "Efterreformatorisk tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Skindergade 37-39",
+                "til_aar": 1660,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/120978/",
+                "xcoord": 12.573863566329022,
+                "ycoord": 55.67893083414712
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574181376563018,
+                    55.67735700742701
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 5,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/122511/",
+                "xcoord": 12.574181376563018,
+                "ycoord": 55.67735700742701
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.570759311620192,
+                    55.679965397797886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 6,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Skt.Petri kirkegård",
+                "til_aar": 2011,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/124244/",
+                "xcoord": 12.570759311620192,
+                "ycoord": 55.679965397797886
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574644918681743,
+                    55.679645383071644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 7,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Skindergade 25",
+                "til_aar": 1660,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/124300/",
+                "xcoord": 12.574644918681743,
+                "ycoord": 55.679645383071644
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575561173329376,
+                    55.67922303349684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 8,
+                "anlaegsbet": "Bygning",
+                "datering": "Efterreformatorisk tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Klosterstræde 14",
+                "til_aar": 1660,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/132209/",
+                "xcoord": 12.575561173329376,
+                "ycoord": 55.67922303349684
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574654645730778,
+                    55.67434895900429
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 9,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Nationalmuseet",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/132212/",
+                "xcoord": 12.574654645730778,
+                "ycoord": 55.67434895900429
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.585237742056334,
+                    55.67992959757258
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 10,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Kongens Nytorv 19-21",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/135919/",
+                "xcoord": 12.585237742056334,
+                "ycoord": 55.67992959757258
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.582814611731132,
+                    55.67936200197758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 11,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Bremerholm",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/136748/",
+                "xcoord": 12.582814611731132,
+                "ycoord": 55.67936200197758
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.606237499352565,
+                    55.68780213853349
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 12,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1750,
+                "kommunenav": "København",
+                "stednavn": "Spantehuset",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/136805/",
+                "xcoord": 12.606237499352565,
+                "ycoord": 55.68780213853349
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.584729276104895,
+                    55.67872157994763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 13,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Vingårdsstræde",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/137780/",
+                "xcoord": 12.584729276104895,
+                "ycoord": 55.67872157994763
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579697374270733,
+                    55.678338060200915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 14,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Højbro Plads",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/140144/",
+                "xcoord": 12.579697374270733,
+                "ycoord": 55.678338060200915
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.570254839353693,
+                    55.680366730655024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 15,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Telefonistindehaven",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/140179/",
+                "xcoord": 12.570254839353693,
+                "ycoord": 55.680366730655024
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.58170299654589,
+                    55.67573482328081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 16,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Kancellibygningen",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/140694/",
+                "xcoord": 12.58170299654589,
+                "ycoord": 55.67573482328081
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.58357235868261,
+                    55.67512271530625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 17,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/140941/",
+                "xcoord": 12.58357235868261,
+                "ycoord": 55.67512271530625
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.585097210096407,
+                    55.67526696947319
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 18,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/140942/",
+                "xcoord": 12.585097210096407,
+                "ycoord": 55.67526696947319
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57648537955106,
+                    55.67714596188403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 19,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/140943/",
+                "xcoord": 12.57648537955106,
+                "ycoord": 55.67714596188403
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57648537955106,
+                    55.67714596188403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 20,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/140943/",
+                "xcoord": 12.57648537955106,
+                "ycoord": 55.67714596188403
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.576639187496774,
+                    55.678481247398295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 21,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1660,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/141253/",
+                "xcoord": 12.576639187496774,
+                "ycoord": 55.678481247398295
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.583856373860575,
+                    55.68031166412831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 22,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/141255/",
+                "xcoord": 12.583856373860575,
+                "ycoord": 55.68031166412831
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.576017449083539,
+                    55.680036969777944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 23,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/141525/",
+                "xcoord": 12.576017449083539,
+                "ycoord": 55.680036969777944
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57724060929846,
+                    55.67705199820339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 24,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/141597/",
+                "xcoord": 12.57724060929846,
+                "ycoord": 55.67705199820339
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.586213418988736,
+                    55.68971110402555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 25,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1750,
+                "kommunenav": "København",
+                "stednavn": "Delfingade",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/142499/",
+                "xcoord": 12.586213418988736,
+                "ycoord": 55.68971110402555
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579690095586635,
+                    55.68260936074793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 26,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1500,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/142500/",
+                "xcoord": 12.579690095586635,
+                "ycoord": 55.68260936074793
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579690095586635,
+                    55.68260936074793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 27,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/142500/",
+                "xcoord": 12.579690095586635,
+                "ycoord": 55.68260936074793
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579690095586635,
+                    55.68260936074793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 28,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/142500/",
+                "xcoord": 12.579690095586635,
+                "ycoord": 55.68260936074793
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.58295728288392,
+                    55.67483496884923
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 29,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/142501/",
+                "xcoord": 12.58295728288392,
+                "ycoord": 55.67483496884923
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57311535161585,
+                    55.68328665707581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 30,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Frederiksborggade 12",
+                "til_aar": 1699,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/143094/",
+                "xcoord": 12.57311535161585,
+                "ycoord": 55.68328665707581
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575537421025665,
+                    55.67896296528503
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 31,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/144323/",
+                "xcoord": 12.575537421025665,
+                "ycoord": 55.67896296528503
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.583977048455985,
+                    55.67954383603154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 32,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Lille Kongensgade",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/145565/",
+                "xcoord": 12.583977048455985,
+                "ycoord": 55.67954383603154
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.576673010842718,
+                    55.68059332319116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 33,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1850,
+                "kommunenav": "København",
+                "stednavn": "Løvstræde 8A",
+                "til_aar": 1899,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/145977/",
+                "xcoord": 12.576673010842718,
+                "ycoord": 55.68059332319116
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.577855442228723,
+                    55.678904346496125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 34,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1200,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1399,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/147688/",
+                "xcoord": 12.577855442228723,
+                "ycoord": 55.678904346496125
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.588051604166521,
+                    55.671736695648356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 35,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Wildersgade 7",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/147689/",
+                "xcoord": 12.588051604166521,
+                "ycoord": 55.671736695648356
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.570378413076499,
+                    55.679104290305396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 36,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1300,
+                "kommunenav": "København",
+                "stednavn": "Studiestræde 6",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/148319/",
+                "xcoord": 12.570378413076499,
+                "ycoord": 55.679104290305396
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.587213646042029,
+                    55.68186798998256
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 37,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1800,
+                "kommunenav": "København",
+                "stednavn": "Palægade 4",
+                "til_aar": 1899,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/155488/",
+                "xcoord": 12.587213646042029,
+                "ycoord": 55.68186798998256
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.571555516142318,
+                    55.67944766547074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 38,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1300,
+                "kommunenav": "København",
+                "stednavn": "Bispegården",
+                "til_aar": 1399,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/162584/",
+                "xcoord": 12.571555516142318,
+                "ycoord": 55.67944766547074
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.571555516142318,
+                    55.67944766547074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 39,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1800,
+                "kommunenav": "København",
+                "stednavn": "Bispegården",
+                "til_aar": 1899,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/162584/",
+                "xcoord": 12.571555516142318,
+                "ycoord": 55.67944766547074
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57591187387345,
+                    55.68114603383056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 40,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Købmagergade 49",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/163095/",
+                "xcoord": 12.57591187387345,
+                "ycoord": 55.68114603383056
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.576970931997236,
+                    55.67793206553304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 41,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Kompagnistræde 8",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/163290/",
+                "xcoord": 12.576970931997236,
+                "ycoord": 55.67793206553304
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.576970931997236,
+                    55.67793206553304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 42,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1300,
+                "kommunenav": "København",
+                "stednavn": "Kompagnistræde 8",
+                "til_aar": 1300,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/163290/",
+                "xcoord": 12.576970931997236,
+                "ycoord": 55.67793206553304
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.573780829946575,
+                    55.68255691803476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 43,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Kultorvet",
+                "til_aar": 1699,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/165426/",
+                "xcoord": 12.573780829946575,
+                "ycoord": 55.68255691803476
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.578857460409173,
+                    55.67715767984699
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 44,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Vindebrogade",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/165427/",
+                "xcoord": 12.578857460409173,
+                "ycoord": 55.67715767984699
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57878885930455,
+                    55.67867029823167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 45,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Amagertorv 7",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/165600/",
+                "xcoord": 12.57878885930455,
+                "ycoord": 55.67867029823167
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57878885930455,
+                    55.67867029823167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 46,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Amagertorv 7",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/165600/",
+                "xcoord": 12.57878885930455,
+                "ycoord": 55.67867029823167
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57492336690938,
+                    55.67537517634161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 47,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Stormgade 6",
+                "til_aar": 1699,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/165601/",
+                "xcoord": 12.57492336690938,
+                "ycoord": 55.67537517634161
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.5728907372836,
+                    55.67611779180579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 48,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Farvergade",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/166682/",
+                "xcoord": 12.5728907372836,
+                "ycoord": 55.67611779180579
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.58179221854873,
+                    55.67531859543214
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 49,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Rigsdagsgården 5",
+                "til_aar": 1699,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167020/",
+                "xcoord": 12.58179221854873,
+                "ycoord": 55.67531859543214
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574003972570297,
+                    55.676633846631105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 50,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1300,
+                "kommunenav": "København",
+                "stednavn": "Kompagnistræde 28",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167027/",
+                "xcoord": 12.574003972570297,
+                "ycoord": 55.676633846631105
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.578697139885522,
+                    55.67905962076221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 51,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167298/",
+                "xcoord": 12.578697139885522,
+                "ycoord": 55.67905962076221
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.585483668755394,
+                    55.68400467688714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 52,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Borgergade",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167299/",
+                "xcoord": 12.585483668755394,
+                "ycoord": 55.68400467688714
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575041200458623,
+                    55.67945399571598
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 53,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Klosterstræde 1-25",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167449/",
+                "xcoord": 12.575041200458623,
+                "ycoord": 55.67945399571598
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575259108719438,
+                    55.67905200571236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 54,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Klosterstræde 9",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167450/",
+                "xcoord": 12.575259108719438,
+                "ycoord": 55.67905200571236
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575259108719438,
+                    55.67905200571236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 55,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Klosterstræde 9",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167450/",
+                "xcoord": 12.575259108719438,
+                "ycoord": 55.67905200571236
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575686815091684,
+                    55.679030543193754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 56,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Klosterstræde",
+                "til_aar": 1660,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167451/",
+                "xcoord": 12.575686815091684,
+                "ycoord": 55.679030543193754
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575393450332811,
+                    55.67912901458794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 57,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Klosterstræde 11-13",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167452/",
+                "xcoord": 12.575393450332811,
+                "ycoord": 55.67912901458794
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575393450332811,
+                    55.67912901458794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 58,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Klosterstræde 11-13",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167452/",
+                "xcoord": 12.575393450332811,
+                "ycoord": 55.67912901458794
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579615997223746,
+                    55.68197310853923
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 59,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Møntergade",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167654/",
+                "xcoord": 12.579615997223746,
+                "ycoord": 55.68197310853923
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.577196489436362,
+                    55.67743993088944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 60,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Snaregade",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167655/",
+                "xcoord": 12.577196489436362,
+                "ycoord": 55.67743993088944
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.559348994438459,
+                    55.70831519747934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 61,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1900,
+                "kommunenav": "København",
+                "stednavn": "Ragnagade 9",
+                "til_aar": 1999,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/167682/",
+                "xcoord": 12.559348994438459,
+                "ycoord": 55.70831519747934
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57251818712548,
+                    55.67569704269439
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 62,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Løngangsstræde 22-24",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/168937/",
+                "xcoord": 12.57251818712548,
+                "ycoord": 55.67569704269439
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.584183636988318,
+                    55.67832390749441
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 63,
+                "anlaegsbet": "Bygning",
+                "datering": "Efterreformatorisk tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Laksegade",
+                "til_aar": 1660,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/169053/",
+                "xcoord": 12.584183636988318,
+                "ycoord": 55.67832390749441
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.594073440909028,
+                    55.683780209542114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 64,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Amalienbord Slotsplads",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/169058/",
+                "xcoord": 12.594073440909028,
+                "ycoord": 55.683780209542114
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.592848181574043,
+                    55.68482319509296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 65,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Fredericiagade 1",
+                "til_aar": 1750,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171765/",
+                "xcoord": 12.592848181574043,
+                "ycoord": 55.68482319509296
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.581375875002472,
+                    55.678073247152746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 66,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Fortunstræde 5",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171818/",
+                "xcoord": 12.581375875002472,
+                "ycoord": 55.678073247152746
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.581406512185577,
+                    55.67823420426141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 67,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Admiralgade",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171819/",
+                "xcoord": 12.581406512185577,
+                "ycoord": 55.67823420426141
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.581406512185577,
+                    55.67823420426141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 68,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Admiralgade",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171819/",
+                "xcoord": 12.581406512185577,
+                "ycoord": 55.67823420426141
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.582006065814351,
+                    55.677830045850456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 69,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Admiralgade 24",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171821/",
+                "xcoord": 12.582006065814351,
+                "ycoord": 55.677830045850456
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.572899332394954,
+                    55.67865321294041
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 70,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Skindergade",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171823/",
+                "xcoord": 12.572899332394954,
+                "ycoord": 55.67865321294041
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.573739686688377,
+                    55.67861973338375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 71,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Skoubogade",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171824/",
+                "xcoord": 12.573739686688377,
+                "ycoord": 55.67861973338375
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574351419012034,
+                    55.67799945686692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 72,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Knabrostræde",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171825/",
+                "xcoord": 12.574351419012034,
+                "ycoord": 55.67799945686692
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574351419012034,
+                    55.67799945686692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 73,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Knabrostræde",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171825/",
+                "xcoord": 12.574351419012034,
+                "ycoord": 55.67799945686692
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574351419012034,
+                    55.67799945686692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 74,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Knabrostræde",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171825/",
+                "xcoord": 12.574351419012034,
+                "ycoord": 55.67799945686692
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575123476482544,
+                    55.677392486276595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 75,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Knabrostræde",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171826/",
+                "xcoord": 12.575123476482544,
+                "ycoord": 55.677392486276595
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575875236114994,
+                    55.676911986896144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 76,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Knabrostræde",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171827/",
+                "xcoord": 12.575875236114994,
+                "ycoord": 55.676911986896144
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575875236114994,
+                    55.676911986896144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 77,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Knabrostræde",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171827/",
+                "xcoord": 12.575875236114994,
+                "ycoord": 55.676911986896144
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575916189317162,
+                    55.677360380330114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 78,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Kompagnistræde",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171828/",
+                "xcoord": 12.575916189317162,
+                "ycoord": 55.677360380330114
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575916189317162,
+                    55.677360380330114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 79,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Kompagnistræde",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171828/",
+                "xcoord": 12.575916189317162,
+                "ycoord": 55.677360380330114
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57665585912088,
+                    55.67709603071974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 80,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Snaregade",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171829/",
+                "xcoord": 12.57665585912088,
+                "ycoord": 55.67709603071974
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57665585912088,
+                    55.67709603071974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 81,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Snaregade",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/171829/",
+                "xcoord": 12.57665585912088,
+                "ycoord": 55.67709603071974
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.583579161598523,
+                    55.68336797778418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 82,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Helsingørsgade",
+                "til_aar": 1699,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/172784/",
+                "xcoord": 12.583579161598523,
+                "ycoord": 55.68336797778418
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.583579161598523,
+                    55.68336797778418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 83,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Helsingørsgade",
+                "til_aar": 1900,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/172784/",
+                "xcoord": 12.583579161598523,
+                "ycoord": 55.68336797778418
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.583579161598523,
+                    55.68336797778418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 84,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Helsingørsgade",
+                "til_aar": 1900,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/172784/",
+                "xcoord": 12.583579161598523,
+                "ycoord": 55.68336797778418
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.588749303336186,
+                    55.68507808832336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 85,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/174024/",
+                "xcoord": 12.588749303336186,
+                "ycoord": 55.68507808832336
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.578920201421562,
+                    55.6722733195518
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 86,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Bryghusgrunden",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/174708/",
+                "xcoord": 12.578920201421562,
+                "ycoord": 55.6722733195518
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574321636753808,
+                    55.682379305196186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 87,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Kultorvet 1 - 7, 14 & 16",
+                "til_aar": 1728,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/174765/",
+                "xcoord": 12.574321636753808,
+                "ycoord": 55.682379305196186
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.576915041461197,
+                    55.68306798774468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 88,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Åbenrå 16",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/174799/",
+                "xcoord": 12.576915041461197,
+                "ycoord": 55.68306798774468
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579404151336965,
+                    55.68226702852752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 89,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Vognmagergade 2",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/174802/",
+                "xcoord": 12.579404151336965,
+                "ycoord": 55.68226702852752
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579666894797032,
+                    55.68200758987923
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 90,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Vognmagergade/ Møntergade",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/174805/",
+                "xcoord": 12.579666894797032,
+                "ycoord": 55.68200758987923
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.577078217520809,
+                    55.6810221000463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 91,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Købmagergade 48",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/187608/",
+                "xcoord": 12.577078217520809,
+                "ycoord": 55.6810221000463
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.577653171128306,
+                    55.682785695197744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 92,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1500,
+                "kommunenav": "København",
+                "stednavn": "Landemærket m.fl.",
+                "til_aar": 1728,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/187710/",
+                "xcoord": 12.577653171128306,
+                "ycoord": 55.682785695197744
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.583893855536084,
+                    55.6777658949085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 93,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Bremerholm II",
+                "til_aar": 1699,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/187935/",
+                "xcoord": 12.583893855536084,
+                "ycoord": 55.6777658949085
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.594711799488097,
+                    55.68431899166005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 94,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1800,
+                "kommunenav": "København",
+                "stednavn": "Frederik d. VIII´s palæ",
+                "til_aar": 1899,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/188175/",
+                "xcoord": 12.594711799488097,
+                "ycoord": 55.68431899166005
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579162992719892,
+                    55.675799997421535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 95,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Christiansborgs Ridebane II",
+                "til_aar": 1699,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/188192/",
+                "xcoord": 12.579162992719892,
+                "ycoord": 55.675799997421535
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.573540372287216,
+                    55.67486699210385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 96,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Stormgade 14",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/188347/",
+                "xcoord": 12.573540372287216,
+                "ycoord": 55.67486699210385
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57815893830246,
+                    55.68257312040874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 97,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Vognmagergade",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/188348/",
+                "xcoord": 12.57815893830246,
+                "ycoord": 55.68257312040874
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.590172210614114,
+                    55.682024188322984
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 98,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Sankt Annæ Plads 7",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/188916/",
+                "xcoord": 12.590172210614114,
+                "ycoord": 55.682024188322984
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.5926830735143,
+                    55.68094357115555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 99,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Bredgade 20-24",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/192412/",
+                "xcoord": 12.5926830735143,
+                "ycoord": 55.68094357115555
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.577578070053647,
+                    55.67656558987272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 100,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Bertel Thorvaldsens Plads",
+                "til_aar": 2009,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/192415/",
+                "xcoord": 12.577578070053647,
+                "ycoord": 55.67656558987272
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.58314102986048,
+                    55.68205898916343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 101,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Store Regnegade",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/192924/",
+                "xcoord": 12.58314102986048,
+                "ycoord": 55.68205898916343
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.591899086470535,
+                    55.68367307077855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 102,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Christian 7´s Palæ",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/192929/",
+                "xcoord": 12.591899086470535,
+                "ycoord": 55.68367307077855
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.584303287095615,
+                    55.68293319353035
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 103,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Borgergade 13-17A og 14-20",
+                "til_aar": 1900,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/193526/",
+                "xcoord": 12.584303287095615,
+                "ycoord": 55.68293319353035
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.581818156905177,
+                    55.681863848736036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 104,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Ny Østergade",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/194475/",
+                "xcoord": 12.581818156905177,
+                "ycoord": 55.681863848736036
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.582813200015119,
+                    55.68125930783313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 105,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1500,
+                "kommunenav": "København",
+                "stednavn": "Store Regnegade",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/194476/",
+                "xcoord": 12.582813200015119,
+                "ycoord": 55.68125930783313
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575788789445598,
+                    55.680843903409645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 106,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1750,
+                "kommunenav": "København",
+                "stednavn": "Skindergade 6-8",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/194510/",
+                "xcoord": 12.575788789445598,
+                "ycoord": 55.680843903409645
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.583064172156641,
+                    55.67948059514516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 107,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Lille Kongensgade/ Bremerholm, København",
+                "til_aar": 2011,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/195047/",
+                "xcoord": 12.583064172156641,
+                "ycoord": 55.67948059514516
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.582394608738682,
+                    55.67825030067092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 108,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Nikolajgade 20",
+                "til_aar": 1799,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/195073/",
+                "xcoord": 12.582394608738682,
+                "ycoord": 55.67825030067092
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.593395284731951,
+                    55.68488809163056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 109,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1760,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/195424/",
+                "xcoord": 12.593395284731951,
+                "ycoord": 55.68488809163056
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.573192497690862,
+                    55.68134219341693
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 110,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "København",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/195778/",
+                "xcoord": 12.573192497690862,
+                "ycoord": 55.68134219341693
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.577514848357184,
+                    55.67761493882638
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 111,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1067,
+                "kommunenav": "København",
+                "stednavn": "Gammel Strand 48",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/196574/",
+                "xcoord": 12.577514848357184,
+                "ycoord": 55.67761493882638
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.577514848357184,
+                    55.67761493882638
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 112,
+                "anlaegsbet": "Bygning",
+                "datering": "Efterreformatorisk tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Gammel Strand 48",
+                "til_aar": 1660,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/196574/",
+                "xcoord": 12.577514848357184,
+                "ycoord": 55.67761493882638
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.577514848357184,
+                    55.67761493882638
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 113,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Gammel Strand 48",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/196574/",
+                "xcoord": 12.577514848357184,
+                "ycoord": 55.67761493882638
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.573870255073784,
+                    55.68115488080799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 114,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1728,
+                "kommunenav": "København",
+                "stednavn": "Krystalgade 10-16",
+                "til_aar": 1807,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/196593/",
+                "xcoord": 12.573870255073784,
+                "ycoord": 55.68115488080799
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.573870255073784,
+                    55.68115488080799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 115,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1300,
+                "kommunenav": "København",
+                "stednavn": "Krystalgade 10-16",
+                "til_aar": 1600,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/196593/",
+                "xcoord": 12.573870255073784,
+                "ycoord": 55.68115488080799
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.580216772445205,
+                    55.67819239836843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 116,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1500,
+                "kommunenav": "København",
+                "stednavn": "Højbro Plads",
+                "til_aar": 1600,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/196605/",
+                "xcoord": 12.580216772445205,
+                "ycoord": 55.67819239836843
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.580216772445205,
+                    55.67819239836843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 117,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Højbro Plads",
+                "til_aar": 1700,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/196605/",
+                "xcoord": 12.580216772445205,
+                "ycoord": 55.67819239836843
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574707350755228,
+                    55.67885218474065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 118,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1300,
+                "kommunenav": "København",
+                "stednavn": "Vimmelskaftet 38, København",
+                "til_aar": 1535,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/197367/",
+                "xcoord": 12.574707350755228,
+                "ycoord": 55.67885218474065
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574707350755228,
+                    55.67885218474065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 119,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Vimmelskaftet 38, København",
+                "til_aar": 1700,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/197367/",
+                "xcoord": 12.574707350755228,
+                "ycoord": 55.67885218474065
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.580428942707291,
+                    55.6798992459371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 120,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1800,
+                "kommunenav": "København",
+                "stednavn": "Silkegade, København",
+                "til_aar": 1900,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/197474/",
+                "xcoord": 12.580428942707291,
+                "ycoord": 55.6798992459371
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.588663008730302,
+                    55.68240102856316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 121,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1650,
+                "kommunenav": "København",
+                "stednavn": "Dronningens Tværgade, København",
+                "til_aar": 1750,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/197633/",
+                "xcoord": 12.588663008730302,
+                "ycoord": 55.68240102856316
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579142355884933,
+                    55.67661883366802
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 122,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Slotsholmen, København",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/197636/",
+                "xcoord": 12.579142355884933,
+                "ycoord": 55.67661883366802
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.57639565348282,
+                    55.67424430248627
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 123,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Frederiksholms Kanal 16-18",
+                "til_aar": 2011,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/197640/",
+                "xcoord": 12.57639565348282,
+                "ycoord": 55.67424430248627
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.58114599359455,
+                    55.6789565431328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 124,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Højbro Plads, København",
+                "til_aar": 1700,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/197972/",
+                "xcoord": 12.58114599359455,
+                "ycoord": 55.6789565431328
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574128446172097,
+                    55.67390558921293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 125,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1650,
+                "kommunenav": "København",
+                "stednavn": "Vester Voldgade, København",
+                "til_aar": 1700,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/197990/",
+                "xcoord": 12.574128446172097,
+                "ycoord": 55.67390558921293
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.583887280781079,
+                    55.6866498835918
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 126,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Sølvgade Skole",
+                "til_aar": 1900,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198211/",
+                "xcoord": 12.583887280781079,
+                "ycoord": 55.6866498835918
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.581444278227154,
+                    55.681173306168155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 127,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1500,
+                "kommunenav": "København",
+                "stednavn": "Gammel Mønt, København",
+                "til_aar": 1750,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198727/",
+                "xcoord": 12.581444278227154,
+                "ycoord": 55.681173306168155
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.573426329771628,
+                    55.68294931624143
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 128,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1650,
+                "kommunenav": "København",
+                "stednavn": "Rosenborggade",
+                "til_aar": 1700,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198732/",
+                "xcoord": 12.573426329771628,
+                "ycoord": 55.68294931624143
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.572596342354183,
+                    55.68274870541697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 129,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Frederiksborggade m.fl.",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198733/",
+                "xcoord": 12.572596342354183,
+                "ycoord": 55.68274870541697
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.572784317596904,
+                    55.68262858350658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 130,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Frederiksborggade m.fl.",
+                "til_aar": 2011,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198734/",
+                "xcoord": 12.572784317596904,
+                "ycoord": 55.68262858350658
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.555829091156149,
+                    55.67336763341513
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 131,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Gammel Kongevej m.fl.",
+                "til_aar": 1850,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198750/",
+                "xcoord": 12.555829091156149,
+                "ycoord": 55.67336763341513
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.562111932229593,
+                    55.681214898136574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 132,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Nansensgade 1",
+                "til_aar": 2011,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198751/",
+                "xcoord": 12.562111932229593,
+                "ycoord": 55.681214898136574
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.580213210611708,
+                    55.68302560198433
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 133,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1833,
+                "kommunenav": "København",
+                "stednavn": "Kronprinsessegade, København",
+                "til_aar": 1929,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198755/",
+                "xcoord": 12.580213210611708,
+                "ycoord": 55.68302560198433
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.583461405043082,
+                    55.684432357578466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 134,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1750,
+                "kommunenav": "København",
+                "stednavn": "Kronprinsessegade, København",
+                "til_aar": 1900,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198756/",
+                "xcoord": 12.583461405043082,
+                "ycoord": 55.684432357578466
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.583461405043082,
+                    55.684432357578466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 135,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Kronprinsessegade, København",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198756/",
+                "xcoord": 12.583461405043082,
+                "ycoord": 55.684432357578466
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.572960435425218,
+                    55.68080935917013
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 136,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Krystalgade, København",
+                "til_aar": 1728,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198758/",
+                "xcoord": 12.572960435425218,
+                "ycoord": 55.68080935917013
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.58257825956804,
+                    55.678087456718295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 137,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1728,
+                "kommunenav": "København",
+                "stednavn": "Dybensgade, København",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198759/",
+                "xcoord": 12.58257825956804,
+                "ycoord": 55.678087456718295
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.58257825956804,
+                    55.678087456718295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 138,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1800,
+                "kommunenav": "København",
+                "stednavn": "Dybensgade, København",
+                "til_aar": 1900,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198759/",
+                "xcoord": 12.58257825956804,
+                "ycoord": 55.678087456718295
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.582086120256426,
+                    55.681752514058594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 139,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1700,
+                "kommunenav": "København",
+                "stednavn": "Ny Østergade",
+                "til_aar": 1900,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198761/",
+                "xcoord": 12.582086120256426,
+                "ycoord": 55.681752514058594
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.573954920472339,
+                    55.67740845578142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 140,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1536,
+                "kommunenav": "København",
+                "stednavn": "Nytorv 11-13, København",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198831/",
+                "xcoord": 12.573954920472339,
+                "ycoord": 55.67740845578142
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579129579504462,
+                    55.67848490029554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 141,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1300,
+                "kommunenav": "København",
+                "stednavn": "Læderstræde, København",
+                "til_aar": 1700,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198859/",
+                "xcoord": 12.579129579504462,
+                "ycoord": 55.67848490029554
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579129579504462,
+                    55.67848490029554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 142,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Læderstræde, København",
+                "til_aar": 1700,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/198859/",
+                "xcoord": 12.579129579504462,
+                "ycoord": 55.67848490029554
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.584974079917014,
+                    55.67818378176254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 143,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1500,
+                "kommunenav": "København",
+                "stednavn": "Laksegade, København",
+                "til_aar": 1700,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/199252/",
+                "xcoord": 12.584974079917014,
+                "ycoord": 55.67818378176254
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.574279159331061,
+                    55.6832256859858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 144,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1600,
+                "kommunenav": "København",
+                "stednavn": "Sankt Gertruds Stræde 6-10, København",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/200313/",
+                "xcoord": 12.574279159331061,
+                "ycoord": 55.6832256859858
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.577652373776505,
+                    55.68278113343045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 145,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Gothersgade, København",
+                "til_aar": 1848,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/200920/",
+                "xcoord": 12.577652373776505,
+                "ycoord": 55.68278113343045
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.588594487837591,
+                    55.68191739466406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 146,
+                "anlaegsbet": "Bygningssten",
+                "datering": "Nyere tid",
+                "fra_aar": 1757,
+                "kommunenav": "København",
+                "stednavn": "Bredgade 22, København",
+                "til_aar": 1804,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/200946/",
+                "xcoord": 12.588594487837591,
+                "ycoord": 55.68191739466406
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579654694940242,
+                    55.67326331020865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 147,
+                "anlaegsbet": "Bygning",
+                "datering": "Efterreformatorisk tid",
+                "fra_aar": 1606,
+                "kommunenav": "København",
+                "stednavn": "Christian d. 4's Bryghus, København",
+                "til_aar": 1608,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/200968/",
+                "xcoord": 12.579654694940242,
+                "ycoord": 55.67326331020865
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579654694940242,
+                    55.67326331020865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 148,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1606,
+                "kommunenav": "København",
+                "stednavn": "Christian d. 4's Bryghus, København",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/200968/",
+                "xcoord": 12.579654694940242,
+                "ycoord": 55.67326331020865
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579654694940242,
+                    55.67326331020865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 149,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1618,
+                "kommunenav": "København",
+                "stednavn": "Christian d. 4's Bryghus, København",
+                "til_aar": 1862,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/200968/",
+                "xcoord": 12.579654694940242,
+                "ycoord": 55.67326331020865
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579654694940242,
+                    55.67326331020865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 150,
+                "anlaegsbet": "Bygning",
+                "datering": "Efterreformatorisk tid",
+                "fra_aar": 1614,
+                "kommunenav": "København",
+                "stednavn": "Christian d. 4's Bryghus, København",
+                "til_aar": 1620,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/200968/",
+                "xcoord": 12.579654694940242,
+                "ycoord": 55.67326331020865
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579654694940242,
+                    55.67326331020865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 151,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1703,
+                "kommunenav": "København",
+                "stednavn": "Christian d. 4's Bryghus, København",
+                "til_aar": 1800,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/200968/",
+                "xcoord": 12.579654694940242,
+                "ycoord": 55.67326331020865
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.579654694940242,
+                    55.67326331020865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 152,
+                "anlaegsbet": "Bygning",
+                "datering": "Historisk Tid",
+                "fra_aar": 1618,
+                "kommunenav": "København",
+                "stednavn": "Christian d. 4's Bryghus, København",
+                "til_aar": 1862,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/200968/",
+                "xcoord": 12.579654694940242,
+                "ycoord": 55.67326331020865
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.575790278470514,
+                    55.68164852969701
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 153,
+                "anlaegsbet": "Bygning",
+                "datering": "Nyere tid",
+                "fra_aar": 1661,
+                "kommunenav": "København",
+                "stednavn": "Købmagergade, København",
+                "til_aar": 1728,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/201637/",
+                "xcoord": 12.575790278470514,
+                "ycoord": 55.68164852969701
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.577866113517725,
+                    55.67806768724884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ID": 154,
+                "anlaegsbet": "Bygning",
+                "datering": "Middelalder",
+                "fra_aar": 1300,
+                "kommunenav": "København",
+                "stednavn": "Læderstræde, København",
+                "til_aar": 1399,
+                "url": "http://www.kulturarv.dk/fundogfortidsminder/Lokalitet/201640/",
+                "xcoord": 12.577866113517725,
+                "ycoord": 55.67806768724884
+            },
+            "type": "Feature"
+        }
+    ],
+    "name": "only_buildings",
+    "type": "FeatureCollection"
+}
