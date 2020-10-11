@@ -4,15 +4,16 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 //import * as buildings from "./Data/only_buildings_copy.json";
 //import PersistentDrawerRight from "./components/AppBar";
 import MapboxMap from './components/Map';
-import PersistentDrawerLeft from './components/PersistentAppBar';
+//import PersistentDrawerLeft from './components/PersistentAppBar';
 //import Main from './components/Main';
+import Navbar from './components/AppBar';
 
 
 function App(){
   return(
     <div className="App">
       <Router>
-        <PersistentDrawerLeft/>
+        <Navbar/>
         <MapboxMap/>
       </Router>
     </div>
