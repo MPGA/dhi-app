@@ -1,11 +1,41 @@
 import React,{ useState, useEffect } from 'react';
-import ReactMapGL, {Marker, Popup} from "react-map-gl";
-import * as buildings from "./Data/only_buildings.json";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+//import ReactMapGL, {Marker, Popup} from "react-map-gl";
+//import * as buildings from "./Data/only_buildings_copy.json";
+//import PersistentDrawerRight from "./components/AppBar";
+import MapboxMap from './components/Map';
+import PersistentDrawerLeft from './components/PersistentAppBar';
+//import Main from './components/Main';
+
+
+function App(){
+  return(
+    <div className="App">
+      <Router>
+        <PersistentDrawerLeft/>
+        <MapboxMap/>
+      </Router>
+    </div>
+  )
+}
+
+
+export default App;
 
 
 
 
-export default function App() {
+
+
+
+
+
+
+
+
+
+
+/*export default function App() {
   const [viewport, setViewport] = useState({
     latitude: 55.690507,
     longitude:12.587300,
@@ -67,8 +97,8 @@ export default function App() {
     }}
     >
       <div>
-        <h1>{selectedBuilding.properties.anlaegsbet}</h1>
-        <h1>{selectedBuilding.properties.datering}</h1>
+        <h4>{selectedBuilding.properties.anlaegsbet}</h4>
+        <h4>{selectedBuilding.properties.datering}</h4>
       </div>
       </Popup>
     ) : null}
@@ -76,5 +106,5 @@ export default function App() {
     </ReactMapGL>
   </div>
   );
-}
+}*/
 
