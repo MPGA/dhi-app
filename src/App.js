@@ -7,6 +7,7 @@ import MapboxMap from './components/Map';
 //import PersistentDrawerLeft from './components/PersistentAppBar';
 //import Main from './components/Main';
 import Navbar from './components/AppBar';
+import ListDrawer from './components/List';
 
 
 function App(){
@@ -14,6 +15,7 @@ function App(){
     <div className="App">
       <Router>
         <Navbar/>
+        <ListDrawer/>
         <MapboxMap/>
       </Router>
     </div>
