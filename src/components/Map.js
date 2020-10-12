@@ -8,8 +8,8 @@ export default function MapboxMap() {
   const [viewport, setViewport] = useState({
     latitude: 55.690507,
     longitude:12.587300,
-    width: "100%",
-    height: 900,
+    width: 900,
+    height: "100%",
     zoom: 12
   });
 
@@ -50,7 +50,7 @@ export default function MapboxMap() {
           setSelectedBuilding(building);
         }}
         >
-          <img src = "../img/point.svg" alt="Blue dot"/>
+          <img src = "/point.svg" alt="Blue dot"/>
         </button>
       </Marker>   
     ))}

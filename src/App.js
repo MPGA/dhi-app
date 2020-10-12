@@ -1,24 +1,21 @@
-import React,{ useState, useEffect } from 'react';
+import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-//import ReactMapGL, {Marker, Popup} from "react-map-gl";
-//import * as buildings from "./Data/only_buildings_copy.json";
-//import PersistentDrawerRight from "./components/AppBar";
-import MapboxMap from './components/Map';
-//import PersistentDrawerLeft from './components/PersistentAppBar';
-//import Main from './components/Main';
-import Navbar from './components/AppBar';
-import ListDrawer from './components/List';
-
+import ReactMapGL, {Marker, Popup} from "react-map-gl";
+import MapboxMap from './components/Map'
+import Main from './components/Main'
+import  {ThemeProvider} from '@material-ui/core/styles'
+import theme from './themeConfig';
+import Navbar from './components/NavBar';
 
 function App(){
   return(
-    <div className="App">
-      <Router>
+    
+      <ThemeProvider theme ={theme}>
         <Navbar/>
-        <ListDrawer/>
+        <Main/>
         <MapboxMap/>
-      </Router>
-    </div>
+      </ThemeProvider>
+  
   )
 }
 

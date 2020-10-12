@@ -1,7 +1,7 @@
 import React from 'react';
-import {List, ListItem, ListItemIcon, ListItemText, Divider} from '@material-ui/core';
-import TimelineIcon from '@material-ui/icons/Timeline';
-import BubbleChartIcon from '@material-ui/icons/BubbleChart';
+import {List, ListItem, ListItemIcon, ListItemText, Divider} from '@material-ui/core'
+import TimelineIcon from '@material-ui/icons/Timeline'
+import BubbleChartIcon from '@material-ui/icons/BubbleChart'
 
 
 
@@ -34,4 +34,4 @@ const ListDrawer = () => {
 
 
 
-export default ListDrawer; 
+export default ListDrawer
