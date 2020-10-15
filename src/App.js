@@ -1,21 +1,16 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import ReactMapGL, {Marker, Popup} from "react-map-gl";
-import MapboxMap from './components/Map'
-import Main from './components/Main'
-import  {ThemeProvider} from '@material-ui/core/styles'
+import  {ThemeProvider} from '@material-ui/core/styles';
 import theme from './themeConfig';
-import Navbar from './components/NavBar';
-import MapboxTrees from './components/Map_trees';
-import Drawer from './components/Drawer';
+import PersistentDrawerRight from './components/PersistentDrawerRight';
+
+
 
 function App(){
   return(
     
       <ThemeProvider theme ={theme}>
-        <Navbar></Navbar>
-        <Drawer></Drawer>
-        <MapboxTrees/>
+        <PersistentDrawerRight/>
       </ThemeProvider>
   
   )
