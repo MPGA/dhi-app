@@ -7,16 +7,16 @@ import List from './List'
 
 const styles = makeStyles(theme =>({
     drawer: {
-        width: 300,
+        width: 400,
         flexShrink: 0,
     },
     drawerPaper: {
-        width: 300,
+        width: 400,
     },
     toolbar:theme.mixins.toolbar
 }))
 
-const NavDrawer = (props) => {
+const NavDrawer = () => {
 
     const classes = styles()
     return (
@@ -26,7 +26,7 @@ const NavDrawer = (props) => {
             classes={{
                 paper:classes.drawerPaper,
             }}
-            anchor="left"
+            anchor="right"
             variant="permanent"
             
             >
