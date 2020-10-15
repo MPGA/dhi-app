@@ -6,6 +6,7 @@ import Main from './components/Main'
 import  {ThemeProvider} from '@material-ui/core/styles'
 import theme from './themeConfig';
 import Navbar from './components/NavBar';
+import MapboxTrees from './components/Map_trees';
 
 function App(){
   return(
@@ -13,7 +14,7 @@ function App(){
       <ThemeProvider theme ={theme}>
         <Navbar/>
         <Main/>
-        <MapboxMap/>
+        <MapboxTrees/>
       </ThemeProvider>
   
   )
