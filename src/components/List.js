@@ -1,37 +1,56 @@
-import React from 'react';
-import {List, ListItem, ListItemIcon, ListItemText, Divider} from '@material-ui/core'
-import TimelineIcon from '@material-ui/icons/Timeline'
-import BubbleChartIcon from '@material-ui/icons/BubbleChart'
+import React ,{TemperatureBox} from 'react';
+import {List, ListItem, ListItemIcon, ListItemText} from '@material-ui/core';
+import { makeStyles, useTheme } from '@material-ui/core/styles';
+import  { Icon } from '@iconify/react';
+import thermometerIcon from '@iconify/icons-mdi/thermometer';
+import InvertColorsIcon from '@material-ui/icons/InvertColors';
+import {Link, BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import TemperatureChart from './Temperature';
+// import TemperatureBox from "../Pages/Temperature"
 
 
+const useStyles = makeStyles((theme)=>({
+  link: {
+    textDecoration: 'none',
+    color: theme.palette.text.primary
+  }
+}))
 
-
-const ListDrawer = () => {
+  export default function ListSideBar() {
+    const classes = useStyles();
     return (
-        <div>
-            <List component='nav'>
 
 
-                <ListItem buttom>
-                    <ListItemIcon>
-                        <BubbleChartIcon/>
-                    <ListItemText primary='Test'/>
-                     </ListItemIcon>
-                     </ListItem>
+  <Router>
+    <div>
+      <List>
+        <nav>
+        <Link to="/Temperature" className={classes.link}>
+          <ListItem button>
+            <ListItemIcon>
+              <Icon icon={thermometerIcon} width="30px" height="40px" />
+            </ListItemIcon>
+          <ListItemText primary={"Temperature"}/>
+          </ListItem>
+        </Link>
+        </nav>
+        </List>
+      <Switch>
+        <Link to="/Humidity" className={classes.link}> 
+        <ListItem button>
+            <ListItemIcon>
+              <InvertColorsIcon/>
+            </ListItemIcon>
+          <ListItemText primary={"Humidity"}/>
+          </ListItem>
+        </Link>
+      <Route path="/Temperature" element ={<TemperatureChart/>}/>
+      <Route path="/Humidity"/>  
+        </Switch>
+    </div>    
+    </Router>
+    );
 
-                <ListItem buttom>
-                    <ListItemIcon>
-                        <TimelineIcon/>
-                    <ListItemText primary='Test'/>
-                     </ListItemIcon>     
-                </ListItem>
-            <Divider/>
-            </List>
-        </div>
-    )
-}
+  }
 
-
-
-
-export default ListDrawer
+  

@@ -1,6 +1,5 @@
 import React from 'react';
 import clsx from 'clsx';
-import {List, ListItem, ListItemIcon, ListItemText} from '@material-ui/core';
 import { makeStyles, useTheme } from '@material-ui/core/styles';
 import Drawer from '@material-ui/core/Drawer';
 import AppBar from '@material-ui/core/AppBar';
@@ -14,8 +13,9 @@ import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import MapboxTrees from './Map_trees';
 import  { Icon } from '@iconify/react';
-import thermometerIcon from '@iconify/icons-mdi/thermometer';
+import {thermometerIcon} from '@iconify/icons-mdi/thermometer';
 import InvertColorsIcon from '@material-ui/icons/InvertColors';
+import ListSideBar from './List'
 
 
 
@@ -126,7 +126,6 @@ const useStyles = makeStyles((theme) => ({
           })}
         >
           <div className={classes.drawerHeader} />
-          <MapboxTrees/>
         </main>
         <Drawer
           className={classes.drawer}
@@ -143,23 +142,7 @@ const useStyles = makeStyles((theme) => ({
             </IconButton>
           </div>
         <Divider />
-          
-          <List>
-            {['Temperature', 'Humidity'].map((text, index) => (
-           <ListItem 
-              button 
-              selected={selectedIndex === 0}
-               onClick={(event) => handleListItemClick(event, 0)}
-              key={text}>
-            <ListItemIcon>
-                    {index % 2 === 0 ?  <Icon icon={thermometerIcon} width="30px" height="40px" /> :<InvertColorsIcon />}
-            </ListItemIcon>
-                <ListItemText primary={text} />
-            </ListItem>
-            ))}
-        </List>
-        <Divider />
-          
+        <ListSideBar/> 
         </Drawer>
     </div>
     
