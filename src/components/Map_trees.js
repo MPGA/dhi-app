@@ -1,7 +1,7 @@
 import React,{ useState, useEffect } from 'react';
 import ReactMapGL, {Marker, Popup, } from "react-map-gl";
 import * as trees from "../Data/cph_trees.json";
-import FiberManualRecordIcon from '@material-ui/icons/FiberManualRecord';
+import EcoIcon from '@material-ui/icons/Eco';
 
 
 
@@ -9,8 +9,8 @@ export default function MapboxTrees() {
   const [viewport, setViewport] = useState({
     latitude: 55.690507,
     longitude:12.587300,
-    width: "100vw",
     height: "100vh",
+    width: "100vw",
     zoom: 12
   });
 
@@ -25,7 +25,7 @@ export default function MapboxTrees() {
     
     window.addEventListener("keydown",listener);
     return() => {
-      window.removeEventListener("keydown",listener);
+    window.removeEventListener("keydown",listener);
     };
   },[]);
 
@@ -50,7 +50,8 @@ export default function MapboxTrees() {
           setSelectedTree(tree);
         }}
         >
-          <FiberManualRecordIcon/>
+          <EcoIcon/>
+          {/* <FiberManualRecordIcon/> */}
           
         </button>
       </Marker>   

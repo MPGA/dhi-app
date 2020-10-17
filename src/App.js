@@ -1,11 +1,14 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import  {ThemeProvider} from '@material-ui/core/styles';
+import {Switch, Route } from "react-router-dom";
+import  {ThemeProvider} from '@material-ui/core/styles'
 import theme from './themeConfig';
 import PersistentDrawerRight from './components/PersistentDrawerRight';
-import MapboxMap from './components/Map';
-import TreeDistribution from './components/TreeDistribution'
+import Navbar from './components/NavBar';
 import MapboxTrees from './components/Map_trees';
+import TemperatureChart from './components/Temperature';
+import TreeDistribution from './components/TreeDistribution';
+import HumidityWind from './components/HumidityWind';
+import MapboxMap from './components/Map';
 
 
 
@@ -14,10 +17,10 @@ function App(){
     
       <ThemeProvider theme ={theme}>
         <Navbar text = {navBarOp()}/>
-        <PersistentDrawerRight chart1={mapOp()}/>
+        <PersistentDrawerRight chart1={MapOp()}/>
         <Switch>
           <Route exact path = {"/"} component={MapboxMap}/>
-          <Route exact path = {"/"} component={MapboxTrees}/>  
+          <Route exact path = {"/trees"} component={MapboxTrees}/>  
         </Switch>
       </ThemeProvider>
   

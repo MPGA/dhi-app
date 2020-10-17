@@ -1,8 +1,8 @@
 import * as tree from "../Data/cph_trees.json";
 
-export default function prepareData(dataMap, option){
+export function prepareData(dataMap, option){
     const array = dataMap.dataMap.properties.timeseries;
-    const today = dataMap.dataMap.properties.meta.updated_at.slice(0,10); 
+    var today = dataMap.dataMap.properties.meta.updated_at.slice(0,10);
     var tomorrow;
     var i;
     var date = new Date();

@@ -1,6 +1,5 @@
 import React from 'react'
-import { AppBar, Toolbar, Typography, makeStyles, IconButton } from '@material-ui/core'
-import  MenuIcon from '@material-ui/icons/Menu'
+import { AppBar, Toolbar, Typography, makeStyles} from '@material-ui/core'
 
 
 const useStyles = makeStyles(theme =>({
@@ -27,16 +26,9 @@ const Navbar = (props) => {
             <AppBar className={classes.appBar} color="primary">
                 <Toolbar>
                     <Typography variant="h6">
-                        Copenhagen App
                     </Typography>
               </Toolbar>
             </AppBar>
-            
+    )}
 
-       
-
-    )
-}
-
-
-export default Navbar
+    export default Navbar

@@ -1,7 +1,7 @@
-import React, {useContext, Component, useEffect, useState} from "react";
+import React from "react";
 import {AreaChart, Area, YAxis, XAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer} from 'recharts';
 import callApi  from './CallApi'
-import prepareData from './FixData'
+import {prepareData} from './FixData'
 
 export default function HumidityWind() {
 

@@ -1,7 +1,7 @@
-import React, {useContext, Component, useEffect, useState} from "react";
-import { LineChart, Line, YAxis, XAxis, CartesianGrid, Tooltip, Legend, Bar, ResponsiveContainer, ComposedChart } from 'recharts';
+import React from "react";
+import {YAxis, XAxis, CartesianGrid, Tooltip, Legend, Bar, ResponsiveContainer, ComposedChart } from 'recharts';
 import CallApi from './CallApi'
-import prepareData from "./FixData";
+import {prepareData} from "./FixData";
 
 export default function TemperatureChart() {
 

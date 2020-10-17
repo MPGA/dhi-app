@@ -1,6 +1,8 @@
 import React,{ useState, useEffect } from 'react';
 import ReactMapGL, {Marker, Popup} from "react-map-gl";
 import * as buildings from "../Data/only_buildings.json";
+import AccountBalanceOutlinedIcon from '@material-ui/icons/AccountBalanceOutlined';
+
 
 
 
@@ -8,8 +10,8 @@ export default function MapboxMap() {
   const [viewport, setViewport] = useState({
     latitude: 55.690507,
     longitude:12.587300,
-    width: 900,
-    height: "100%",
+    height: "100vh",
+    width: "100vw",
     zoom: 12
   });
 
@@ -50,7 +52,8 @@ export default function MapboxMap() {
           setSelectedBuilding(building);
         }}
         >
-          <img src = "/point.svg" alt="Blue dot"/>
+          <AccountBalanceOutlinedIcon/>
+          {/* <img src = "/point.svg" alt="Blue dot"/> */}
         </button>
       </Marker>   
     ))}
@@ -64,7 +67,7 @@ export default function MapboxMap() {
     }}
     >
       <div>
-      <h4>Type: {selectedBuilding.properties.anlaegsbet}</h4>
+        <h4>Type: {selectedBuilding.properties.anlaegsbet}</h4>
         <h4>Date: {selectedBuilding.properties.datering}</h4>
         <h4>Timeline: {selectedBuilding.properties.fra_aar}-{selectedBuilding.properties.til_aar}</h4>
       </div>

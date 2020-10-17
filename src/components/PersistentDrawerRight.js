@@ -11,16 +11,10 @@ import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
-import MapboxTrees from './Map_trees';
-import  { Icon } from '@iconify/react';
-import {thermometerIcon} from '@iconify/icons-mdi/thermometer';
-import InvertColorsIcon from '@material-ui/icons/InvertColors';
 import ListSideBar from './List'
 
 
-
-
-const drawerWidth = 300;
+const drawerWidth = 500;
 const useStyles = makeStyles((theme) => ({
     root: {
       display: 'flex',
@@ -78,12 +72,11 @@ const useStyles = makeStyles((theme) => ({
     },
   }));
   
-  export default function PersistentDrawerRight() {
+  export default function PersistentDrawerRight(chart1) {
     const classes = useStyles();
     const theme = useTheme();
     const [open, setOpen] = React.useState(false);
     const [selectedIndex, setSelectedIndex] = React.useState(1);
-
     var charOne;
     var charTwo = null;
     var text = "";
@@ -93,9 +86,8 @@ const useStyles = makeStyles((theme) => ({
       text = "Archaeological Footprint of Ancient Buildings"
     }else{
       charOne = chart1.chart1
-      text = "Copenhagen Trees";
+      text = "Copenhagen trees";
     }
-
     const handleListItemClick = (event, index) => {
       setSelectedIndex(index);
     };
@@ -107,7 +99,6 @@ const useStyles = makeStyles((theme) => ({
     const handleDrawerClose = () => {
       setOpen(false);
     };
-  
     return (
       <div className={classes.root}>
         <CssBaseline />
@@ -119,7 +110,7 @@ const useStyles = makeStyles((theme) => ({
         >
           <Toolbar>
             <Typography variant="h6" noWrap className={classes.title}>
-              {text}
+              {text} 
             </Typography>
             <IconButton
               color="inherit"
@@ -143,6 +134,7 @@ const useStyles = makeStyles((theme) => ({
           className={classes.drawer}
           variant="persistent"
           anchor="right"
+          
           open={open}
           classes={{
             paper: classes.drawerPaper,
@@ -154,7 +146,7 @@ const useStyles = makeStyles((theme) => ({
             </IconButton>
           </div>
         <Divider />
-        <ListSideBar/> 
+        <ListSideBar/>
         {charOne()}
         {charTwo != null ? charTwo():console.log("")}
         </Drawer>
