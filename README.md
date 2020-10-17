@@ -1,3 +1,19 @@
+##Web Application
+
+This web application shows two layers: 
+
+- Findings and ancient monuments of Copenhagen (only buildings)showing the historical period of the monuments and timeline. In addition, a bar graph showing temperatury and line graph showing humidity and wind in the city of Copenhagen. The data is taken from the API of the DMI showing current data.
+- Trees in Copenhagen showing the year they were planted and the type by their danish name. In addition, a line graph showing the ammount of trees planted per year (data presented is a sample of a bigger dataset) 
+
+
+##Token
+This project uses MapBox maps, to display a map you need a token. If you don't have one go to www.mapbox.com:
+1. create a token
+2. create a .env.local file inside the project directory
+3. add REACT_APP_MAPBOX_TOKEN=plus_your_token
+4. Save
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
