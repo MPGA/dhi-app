@@ -64,8 +64,9 @@ export default function MapboxMap() {
     }}
     >
       <div>
-        <h4>{selectedBuilding.properties.anlaegsbet}</h4>
-        <h4>{selectedBuilding.properties.datering}</h4>
+      <h4>Type: {selectedBuilding.properties.anlaegsbet}</h4>
+        <h4>Date: {selectedBuilding.properties.datering}</h4>
+        <h4>Timeline: {selectedBuilding.properties.fra_aar}-{selectedBuilding.properties.til_aar}</h4>
       </div>
       </Popup>
     ) : null}
