@@ -84,6 +84,18 @@ const useStyles = makeStyles((theme) => ({
     const [open, setOpen] = React.useState(false);
     const [selectedIndex, setSelectedIndex] = React.useState(1);
 
+    var charOne;
+    var charTwo = null;
+    var text = "";
+    if(chart1.chart1.length >1){
+      charOne = chart1.chart1[0]
+      charTwo = chart1.chart1[1]
+      text = "Archaeological Footprint of Ancient Buildings"
+    }else{
+      charOne = chart1.chart1
+      text = "Copenhagen Trees";
+    }
+
     const handleListItemClick = (event, index) => {
       setSelectedIndex(index);
     };
@@ -107,7 +119,7 @@ const useStyles = makeStyles((theme) => ({
         >
           <Toolbar>
             <Typography variant="h6" noWrap className={classes.title}>
-              Copenhagen Trees 
+              {text}
             </Typography>
             <IconButton
               color="inherit"
@@ -143,6 +155,8 @@ const useStyles = makeStyles((theme) => ({
           </div>
         <Divider />
         <ListSideBar/> 
+        {charOne()}
+        {charTwo != null ? charTwo():console.log("")}
         </Drawer>
     </div>
     
