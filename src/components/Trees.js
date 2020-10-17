@@ -23,3 +23,5 @@ export default function TreeDistribution() {
             </AreaChart>           
         </ResponsiveContainer>
     )
+
+}
